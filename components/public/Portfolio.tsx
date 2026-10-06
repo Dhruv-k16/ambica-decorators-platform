@@ -314,9 +314,31 @@ export default function Portfolio({
     }
   }
 
+  function getOptimizedUrl(
+    url: string,
+    type: 'thumb' | 'full'
+  ) {
+    const folder =
+      type === 'thumb'
+        ? 'portfolio-thumbs'
+        : 'portfolio-optimized';
+
+    return url
+      .replace(
+        '/assets/portfolio/',
+        `/assets/${folder}/`
+      )
+      .replace(/\.(jpg|jpeg|JPG|JPEG|png|PNG)$/i, '.webp');
+  }
+
   function renderPhoto(
     photo: PortfolioPhoto
   ) {
+    const thumbnailUrl = getOptimizedUrl(
+      photo.url,
+      'thumb'
+    );
+
     return (
       <article
         key={photo.id}
@@ -326,7 +348,7 @@ export default function Portfolio({
         }
       >
         <img
-          src={photo.url}
+          src={thumbnailUrl}
           alt={photo.alt}
           className="ambica-portfolio-image"
           loading="lazy"
@@ -343,13 +365,12 @@ export default function Portfolio({
       </article>
     );
   }
-
   return (
     <>
       <section
         className={`ambica-portfolio ${fullGallery
-            ? 'ambica-portfolio-full'
-            : 'ambica-portfolio-home'
+          ? 'ambica-portfolio-full'
+          : 'ambica-portfolio-home'
           }`}
         id="portfolio"
       >
@@ -553,8 +574,12 @@ export default function Portfolio({
             }
           >
             <img
-              src={selectedPhoto.url}
+              src={getOptimizedUrl(
+                selectedPhoto.url,
+                'full'
+              )}
               alt={selectedPhoto.alt}
+              decoding="async"
             />
 
             <img
