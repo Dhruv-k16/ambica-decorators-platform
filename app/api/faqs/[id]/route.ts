@@ -1,0 +1,4 @@
+import { NextRequest } from 'next/server';
+import { prisma } from '@/lib/prisma'; import { requireAdmin } from '@/lib/auth'; import { bad,ok } from '@/lib/api';
+export async function PATCH(req:NextRequest,{params}:{params:Promise<{id:string}>}){try{await requireAdmin();const {id}=await params;const b=await req.json();const item=await prisma.fAQ.update({where:{id},data:{question: b.question, answer: b.answer, published: b.published, sortOrder: Number(b.sortOrder)}});return ok(item)}catch(e){return bad(e instanceof Error?e.message:'Request failed',400)}}
+export async function DELETE(_req:NextRequest,{params}:{params:Promise<{id:string}>}){try{await requireAdmin();const {id}=await params;await prisma.fAQ.delete({where:{id}});return ok({ok:true})}catch(e){return bad(e instanceof Error?e.message:'Request failed',400)}}

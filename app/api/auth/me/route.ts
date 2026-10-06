@@ -1,0 +1,1 @@
+import { requireAdmin } from '@/lib/auth'; import { ok,bad } from '@/lib/api'; export async function GET(){try{const a=await requireAdmin();return ok({id:a.id,name:a.name,email:a.email})}catch{return bad('Unauthorized',401)}}

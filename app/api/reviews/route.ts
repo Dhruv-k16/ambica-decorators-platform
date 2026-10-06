@@ -1,0 +1,44 @@
+import { NextRequest } from 'next/server';
+import { prisma } from '@/lib/prisma';
+import { requireAdmin } from '@/lib/auth';
+import { bad, ok } from '@/lib/api';
+
+export async function GET() {
+  try {
+    await requireAdmin();
+
+    return ok(
+      await prisma.review.findMany({
+        orderBy: { createdAt: 'desc' },
+      })
+    );
+  } catch {
+    return bad('Unauthorized', 401);
+  }
+}
+
+export async function POST(req: NextRequest) {
+  try {
+    await requireAdmin();
+
+    const b = await req.json();
+
+    const item = await prisma.review.create({
+      data: {
+        clientName: b.clientName,
+        eventType: b.eventType,
+        location: b.location,
+        text: b.text,
+        rating: Number(b.rating ?? 5),
+        published: b.published ?? true,
+      },
+    });
+
+    return ok(item, 201);
+  } catch (e) {
+    return bad(
+      e instanceof Error ? e.message : 'Request failed',
+      400
+    );
+  }
+}

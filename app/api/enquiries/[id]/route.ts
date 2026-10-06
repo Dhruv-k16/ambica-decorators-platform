@@ -1,0 +1,3 @@
+import { NextRequest } from 'next/server'; import { prisma } from '@/lib/prisma'; import { requireAdmin } from '@/lib/auth'; import { bad,ok } from '@/lib/api';
+export async function PATCH(req:NextRequest,{params}:{params:Promise<{id:string}>}){try{await requireAdmin();const {id}=await params;const b=await req.json();const e=await prisma.enquiry.update({where:{id},data:{status:b.status,adminNotes:b.adminNotes}});return ok(e)}catch(e){return bad(e instanceof Error?e.message:'Request failed',400)}}
+export async function DELETE(_req:NextRequest,{params}:{params:Promise<{id:string}>}){try{await requireAdmin();const {id}=await params;await prisma.enquiry.delete({where:{id}});return ok({ok:true})}catch{return bad('Unauthorized',401)}}

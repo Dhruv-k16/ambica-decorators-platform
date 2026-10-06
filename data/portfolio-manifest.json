@@ -1,0 +1,1581 @@
+{
+  "generatedAt": "2026-10-06T06:19:43.753Z",
+  "categories": [
+    {
+      "slug": "all",
+      "label": "All Celebrations",
+      "photos": [
+        {
+          "id": "gate-1",
+          "url": "/assets/portfolio/gate/IMG_2457.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 0
+        },
+        {
+          "id": "gate-2",
+          "url": "/assets/portfolio/gate/IMG_2592.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 1
+        },
+        {
+          "id": "gate-3",
+          "url": "/assets/portfolio/gate/IMG_2655.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 2
+        },
+        {
+          "id": "gate-4",
+          "url": "/assets/portfolio/gate/IMG_2878.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 3
+        },
+        {
+          "id": "gate-5",
+          "url": "/assets/portfolio/gate/IMG_2909.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 4
+        },
+        {
+          "id": "gate-6",
+          "url": "/assets/portfolio/gate/IMG_3729.JPEG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 5
+        },
+        {
+          "id": "gate-7",
+          "url": "/assets/portfolio/gate/IMG_3923.JPEG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 6
+        },
+        {
+          "id": "gate-8",
+          "url": "/assets/portfolio/gate/IMG_5329.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 7
+        },
+        {
+          "id": "gate-9",
+          "url": "/assets/portfolio/gate/IMG_5340.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 8
+        },
+        {
+          "id": "gate-10",
+          "url": "/assets/portfolio/gate/IMG_5893.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 9
+        },
+        {
+          "id": "gate-11",
+          "url": "/assets/portfolio/gate/IMG_9005.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 10
+        },
+        {
+          "id": "gate-12",
+          "url": "/assets/portfolio/gate/IMG_9549.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 11
+        },
+        {
+          "id": "gate-13",
+          "url": "/assets/portfolio/gate/IMG_9875.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 12
+        },
+        {
+          "id": "mandap-1",
+          "url": "/assets/portfolio/mandap/IMG_0611.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 0
+        },
+        {
+          "id": "mandap-2",
+          "url": "/assets/portfolio/mandap/IMG_1703.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 1
+        },
+        {
+          "id": "mandap-3",
+          "url": "/assets/portfolio/mandap/IMG_2202.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 2
+        },
+        {
+          "id": "mandap-4",
+          "url": "/assets/portfolio/mandap/IMG_2487.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 3
+        },
+        {
+          "id": "mandap-5",
+          "url": "/assets/portfolio/mandap/IMG_3813.JPEG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 4
+        },
+        {
+          "id": "mandap-6",
+          "url": "/assets/portfolio/mandap/IMG_5301.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 5
+        },
+        {
+          "id": "mandap-7",
+          "url": "/assets/portfolio/mandap/IMG_7863.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 6
+        },
+        {
+          "id": "mandap-8",
+          "url": "/assets/portfolio/mandap/IMG_7891.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 7
+        },
+        {
+          "id": "mandap-9",
+          "url": "/assets/portfolio/mandap/IMG_8673.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 8
+        },
+        {
+          "id": "mandap-10",
+          "url": "/assets/portfolio/mandap/IMG_9530.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 9
+        },
+        {
+          "id": "mandap-11",
+          "url": "/assets/portfolio/mandap/IMG_9943.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 10
+        },
+        {
+          "id": "passage-1",
+          "url": "/assets/portfolio/passage/IMG_1071.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 0
+        },
+        {
+          "id": "passage-2",
+          "url": "/assets/portfolio/passage/IMG_1272.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 1
+        },
+        {
+          "id": "passage-3",
+          "url": "/assets/portfolio/passage/IMG_2890.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 2
+        },
+        {
+          "id": "passage-4",
+          "url": "/assets/portfolio/passage/IMG_2899.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 3
+        },
+        {
+          "id": "passage-5",
+          "url": "/assets/portfolio/passage/IMG_3667.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 4
+        },
+        {
+          "id": "passage-6",
+          "url": "/assets/portfolio/passage/IMG_3891.JPEG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 5
+        },
+        {
+          "id": "passage-7",
+          "url": "/assets/portfolio/passage/IMG_3930.JPEG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 6
+        },
+        {
+          "id": "passage-8",
+          "url": "/assets/portfolio/passage/IMG_4310.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 7
+        },
+        {
+          "id": "passage-9",
+          "url": "/assets/portfolio/passage/IMG_4338.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 8
+        },
+        {
+          "id": "passage-10",
+          "url": "/assets/portfolio/passage/IMG_5001.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 9
+        },
+        {
+          "id": "passage-11",
+          "url": "/assets/portfolio/passage/IMG_7942.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 10
+        },
+        {
+          "id": "passage-12",
+          "url": "/assets/portfolio/passage/IMG_8645.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 11
+        },
+        {
+          "id": "passage-13",
+          "url": "/assets/portfolio/passage/IMG_9646.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 12
+        },
+        {
+          "id": "seating-1",
+          "url": "/assets/portfolio/seating/IMG_0165.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 0
+        },
+        {
+          "id": "seating-2",
+          "url": "/assets/portfolio/seating/IMG_3411.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 1
+        },
+        {
+          "id": "seating-3",
+          "url": "/assets/portfolio/seating/IMG_3743.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 2
+        },
+        {
+          "id": "seating-4",
+          "url": "/assets/portfolio/seating/IMG_3810.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 3
+        },
+        {
+          "id": "seating-5",
+          "url": "/assets/portfolio/seating/IMG_3907.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 4
+        },
+        {
+          "id": "seating-6",
+          "url": "/assets/portfolio/seating/IMG_5005.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 5
+        },
+        {
+          "id": "seating-7",
+          "url": "/assets/portfolio/seating/IMG_5253.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 6
+        },
+        {
+          "id": "seating-8",
+          "url": "/assets/portfolio/seating/IMG_5284.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 7
+        },
+        {
+          "id": "seating-9",
+          "url": "/assets/portfolio/seating/IMG_5892.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 8
+        },
+        {
+          "id": "seating-10",
+          "url": "/assets/portfolio/seating/IMG_7988.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 9
+        },
+        {
+          "id": "seating-11",
+          "url": "/assets/portfolio/seating/IMG_9610.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 10
+        },
+        {
+          "id": "seating-12",
+          "url": "/assets/portfolio/seating/IMG_9664.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 11
+        },
+        {
+          "id": "seating-13",
+          "url": "/assets/portfolio/seating/IMG_9678.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 12
+        },
+        {
+          "id": "props-spots-1",
+          "url": "/assets/portfolio/props-spots/IMG_1306.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 0
+        },
+        {
+          "id": "props-spots-2",
+          "url": "/assets/portfolio/props-spots/IMG_1307.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 1
+        },
+        {
+          "id": "props-spots-3",
+          "url": "/assets/portfolio/props-spots/IMG_2021.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 2
+        },
+        {
+          "id": "props-spots-4",
+          "url": "/assets/portfolio/props-spots/IMG_2466.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 3
+        },
+        {
+          "id": "props-spots-5",
+          "url": "/assets/portfolio/props-spots/IMG_2469.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 4
+        },
+        {
+          "id": "props-spots-6",
+          "url": "/assets/portfolio/props-spots/IMG_2557.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 5
+        },
+        {
+          "id": "props-spots-7",
+          "url": "/assets/portfolio/props-spots/IMG_2745.JPEG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 6
+        },
+        {
+          "id": "props-spots-8",
+          "url": "/assets/portfolio/props-spots/IMG_3899.JPEG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 7
+        },
+        {
+          "id": "props-spots-9",
+          "url": "/assets/portfolio/props-spots/IMG_5403.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 8
+        },
+        {
+          "id": "props-spots-10",
+          "url": "/assets/portfolio/props-spots/IMG_5537.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 9
+        },
+        {
+          "id": "props-spots-11",
+          "url": "/assets/portfolio/props-spots/IMG_8323.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 10
+        },
+        {
+          "id": "stage-1",
+          "url": "/assets/portfolio/stage/IMG_0227.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 0
+        },
+        {
+          "id": "stage-2",
+          "url": "/assets/portfolio/stage/IMG_1293.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 1
+        },
+        {
+          "id": "stage-3",
+          "url": "/assets/portfolio/stage/IMG_2172.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 2
+        },
+        {
+          "id": "stage-4",
+          "url": "/assets/portfolio/stage/IMG_2454.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 3
+        },
+        {
+          "id": "stage-5",
+          "url": "/assets/portfolio/stage/IMG_2502.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 4
+        },
+        {
+          "id": "stage-6",
+          "url": "/assets/portfolio/stage/IMG_2516.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 5
+        },
+        {
+          "id": "stage-7",
+          "url": "/assets/portfolio/stage/IMG_2894.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 6
+        },
+        {
+          "id": "stage-8",
+          "url": "/assets/portfolio/stage/IMG_2903.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 7
+        },
+        {
+          "id": "stage-9",
+          "url": "/assets/portfolio/stage/IMG_3124.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 8
+        },
+        {
+          "id": "stage-10",
+          "url": "/assets/portfolio/stage/IMG_3674.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 9
+        },
+        {
+          "id": "stage-11",
+          "url": "/assets/portfolio/stage/IMG_3808.JPEG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 10
+        },
+        {
+          "id": "stage-12",
+          "url": "/assets/portfolio/stage/IMG_4079.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 11
+        },
+        {
+          "id": "stage-13",
+          "url": "/assets/portfolio/stage/IMG_4241.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 12
+        },
+        {
+          "id": "stage-14",
+          "url": "/assets/portfolio/stage/IMG_4640.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 13
+        },
+        {
+          "id": "stage-15",
+          "url": "/assets/portfolio/stage/IMG_5070.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 14
+        },
+        {
+          "id": "stage-16",
+          "url": "/assets/portfolio/stage/IMG_7651.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 15
+        },
+        {
+          "id": "stage-17",
+          "url": "/assets/portfolio/stage/IMG_8514.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 16
+        },
+        {
+          "id": "stage-18",
+          "url": "/assets/portfolio/stage/IMG_9284.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 17
+        },
+        {
+          "id": "venue-1",
+          "url": "/assets/portfolio/venue/IMG_2449.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 0
+        },
+        {
+          "id": "venue-2",
+          "url": "/assets/portfolio/venue/IMG_2853.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 1
+        },
+        {
+          "id": "venue-3",
+          "url": "/assets/portfolio/venue/IMG_2877.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 2
+        },
+        {
+          "id": "venue-4",
+          "url": "/assets/portfolio/venue/IMG_3559.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 3
+        },
+        {
+          "id": "venue-5",
+          "url": "/assets/portfolio/venue/IMG_3714.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 4
+        },
+        {
+          "id": "venue-6",
+          "url": "/assets/portfolio/venue/IMG_3834.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 5
+        },
+        {
+          "id": "venue-7",
+          "url": "/assets/portfolio/venue/IMG_3965.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 6
+        },
+        {
+          "id": "venue-8",
+          "url": "/assets/portfolio/venue/IMG_4035.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 7
+        },
+        {
+          "id": "venue-9",
+          "url": "/assets/portfolio/venue/IMG_4064.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 8
+        },
+        {
+          "id": "venue-10",
+          "url": "/assets/portfolio/venue/IMG_5366.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 9
+        },
+        {
+          "id": "venue-11",
+          "url": "/assets/portfolio/venue/IMG_5495.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 10
+        },
+        {
+          "id": "venue-12",
+          "url": "/assets/portfolio/venue/IMG_7828.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 11
+        },
+        {
+          "id": "venue-13",
+          "url": "/assets/portfolio/venue/IMG_8563.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 12
+        },
+        {
+          "id": "venue-14",
+          "url": "/assets/portfolio/venue/IMG_9479.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 13
+        },
+        {
+          "id": "venue-15",
+          "url": "/assets/portfolio/venue/IMG_9502.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 14
+        },
+        {
+          "id": "venue-16",
+          "url": "/assets/portfolio/venue/IMG_9697.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 15
+        }
+      ]
+    },
+    {
+      "slug": "entrances",
+      "label": "Entrances",
+      "folder": "gate",
+      "photos": [
+        {
+          "id": "gate-1",
+          "url": "/assets/portfolio/gate/IMG_2457.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 0
+        },
+        {
+          "id": "gate-2",
+          "url": "/assets/portfolio/gate/IMG_2592.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 1
+        },
+        {
+          "id": "gate-3",
+          "url": "/assets/portfolio/gate/IMG_2655.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 2
+        },
+        {
+          "id": "gate-4",
+          "url": "/assets/portfolio/gate/IMG_2878.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 3
+        },
+        {
+          "id": "gate-5",
+          "url": "/assets/portfolio/gate/IMG_2909.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 4
+        },
+        {
+          "id": "gate-6",
+          "url": "/assets/portfolio/gate/IMG_3729.JPEG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 5
+        },
+        {
+          "id": "gate-7",
+          "url": "/assets/portfolio/gate/IMG_3923.JPEG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 6
+        },
+        {
+          "id": "gate-8",
+          "url": "/assets/portfolio/gate/IMG_5329.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 7
+        },
+        {
+          "id": "gate-9",
+          "url": "/assets/portfolio/gate/IMG_5340.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 8
+        },
+        {
+          "id": "gate-10",
+          "url": "/assets/portfolio/gate/IMG_5893.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 9
+        },
+        {
+          "id": "gate-11",
+          "url": "/assets/portfolio/gate/IMG_9005.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 10
+        },
+        {
+          "id": "gate-12",
+          "url": "/assets/portfolio/gate/IMG_9549.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 11
+        },
+        {
+          "id": "gate-13",
+          "url": "/assets/portfolio/gate/IMG_9875.JPG",
+          "alt": "Ambica Decorators Entrances",
+          "category": "entrances",
+          "categoryLabel": "Entrances",
+          "sortOrder": 12
+        }
+      ]
+    },
+    {
+      "slug": "sacred-settings",
+      "label": "Sacred Settings",
+      "folder": "mandap",
+      "photos": [
+        {
+          "id": "mandap-1",
+          "url": "/assets/portfolio/mandap/IMG_0611.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 0
+        },
+        {
+          "id": "mandap-2",
+          "url": "/assets/portfolio/mandap/IMG_1703.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 1
+        },
+        {
+          "id": "mandap-3",
+          "url": "/assets/portfolio/mandap/IMG_2202.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 2
+        },
+        {
+          "id": "mandap-4",
+          "url": "/assets/portfolio/mandap/IMG_2487.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 3
+        },
+        {
+          "id": "mandap-5",
+          "url": "/assets/portfolio/mandap/IMG_3813.JPEG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 4
+        },
+        {
+          "id": "mandap-6",
+          "url": "/assets/portfolio/mandap/IMG_5301.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 5
+        },
+        {
+          "id": "mandap-7",
+          "url": "/assets/portfolio/mandap/IMG_7863.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 6
+        },
+        {
+          "id": "mandap-8",
+          "url": "/assets/portfolio/mandap/IMG_7891.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 7
+        },
+        {
+          "id": "mandap-9",
+          "url": "/assets/portfolio/mandap/IMG_8673.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 8
+        },
+        {
+          "id": "mandap-10",
+          "url": "/assets/portfolio/mandap/IMG_9530.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 9
+        },
+        {
+          "id": "mandap-11",
+          "url": "/assets/portfolio/mandap/IMG_9943.JPG",
+          "alt": "Ambica Decorators Sacred Settings",
+          "category": "sacred-settings",
+          "categoryLabel": "Sacred Settings",
+          "sortOrder": 10
+        }
+      ]
+    },
+    {
+      "slug": "elegant-passages",
+      "label": "Elegant Passages",
+      "folder": "passage",
+      "photos": [
+        {
+          "id": "passage-1",
+          "url": "/assets/portfolio/passage/IMG_1071.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 0
+        },
+        {
+          "id": "passage-2",
+          "url": "/assets/portfolio/passage/IMG_1272.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 1
+        },
+        {
+          "id": "passage-3",
+          "url": "/assets/portfolio/passage/IMG_2890.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 2
+        },
+        {
+          "id": "passage-4",
+          "url": "/assets/portfolio/passage/IMG_2899.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 3
+        },
+        {
+          "id": "passage-5",
+          "url": "/assets/portfolio/passage/IMG_3667.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 4
+        },
+        {
+          "id": "passage-6",
+          "url": "/assets/portfolio/passage/IMG_3891.JPEG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 5
+        },
+        {
+          "id": "passage-7",
+          "url": "/assets/portfolio/passage/IMG_3930.JPEG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 6
+        },
+        {
+          "id": "passage-8",
+          "url": "/assets/portfolio/passage/IMG_4310.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 7
+        },
+        {
+          "id": "passage-9",
+          "url": "/assets/portfolio/passage/IMG_4338.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 8
+        },
+        {
+          "id": "passage-10",
+          "url": "/assets/portfolio/passage/IMG_5001.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 9
+        },
+        {
+          "id": "passage-11",
+          "url": "/assets/portfolio/passage/IMG_7942.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 10
+        },
+        {
+          "id": "passage-12",
+          "url": "/assets/portfolio/passage/IMG_8645.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 11
+        },
+        {
+          "id": "passage-13",
+          "url": "/assets/portfolio/passage/IMG_9646.JPG",
+          "alt": "Ambica Decorators Elegant Passages",
+          "category": "elegant-passages",
+          "categoryLabel": "Elegant Passages",
+          "sortOrder": 12
+        }
+      ]
+    },
+    {
+      "slug": "gather-celebrate",
+      "label": "Gather & Celebrate",
+      "folder": "seating",
+      "photos": [
+        {
+          "id": "seating-1",
+          "url": "/assets/portfolio/seating/IMG_0165.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 0
+        },
+        {
+          "id": "seating-2",
+          "url": "/assets/portfolio/seating/IMG_3411.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 1
+        },
+        {
+          "id": "seating-3",
+          "url": "/assets/portfolio/seating/IMG_3743.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 2
+        },
+        {
+          "id": "seating-4",
+          "url": "/assets/portfolio/seating/IMG_3810.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 3
+        },
+        {
+          "id": "seating-5",
+          "url": "/assets/portfolio/seating/IMG_3907.JPEG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 4
+        },
+        {
+          "id": "seating-6",
+          "url": "/assets/portfolio/seating/IMG_5005.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 5
+        },
+        {
+          "id": "seating-7",
+          "url": "/assets/portfolio/seating/IMG_5253.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 6
+        },
+        {
+          "id": "seating-8",
+          "url": "/assets/portfolio/seating/IMG_5284.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 7
+        },
+        {
+          "id": "seating-9",
+          "url": "/assets/portfolio/seating/IMG_5892.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 8
+        },
+        {
+          "id": "seating-10",
+          "url": "/assets/portfolio/seating/IMG_7988.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 9
+        },
+        {
+          "id": "seating-11",
+          "url": "/assets/portfolio/seating/IMG_9610.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 10
+        },
+        {
+          "id": "seating-12",
+          "url": "/assets/portfolio/seating/IMG_9664.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 11
+        },
+        {
+          "id": "seating-13",
+          "url": "/assets/portfolio/seating/IMG_9678.JPG",
+          "alt": "Ambica Decorators Gather & Celebrate",
+          "category": "gather-celebrate",
+          "categoryLabel": "Gather & Celebrate",
+          "sortOrder": 12
+        }
+      ]
+    },
+    {
+      "slug": "picture-perfect",
+      "label": "Picture Perfect",
+      "folder": "props-spots",
+      "photos": [
+        {
+          "id": "props-spots-1",
+          "url": "/assets/portfolio/props-spots/IMG_1306.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 0
+        },
+        {
+          "id": "props-spots-2",
+          "url": "/assets/portfolio/props-spots/IMG_1307.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 1
+        },
+        {
+          "id": "props-spots-3",
+          "url": "/assets/portfolio/props-spots/IMG_2021.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 2
+        },
+        {
+          "id": "props-spots-4",
+          "url": "/assets/portfolio/props-spots/IMG_2466.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 3
+        },
+        {
+          "id": "props-spots-5",
+          "url": "/assets/portfolio/props-spots/IMG_2469.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 4
+        },
+        {
+          "id": "props-spots-6",
+          "url": "/assets/portfolio/props-spots/IMG_2557.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 5
+        },
+        {
+          "id": "props-spots-7",
+          "url": "/assets/portfolio/props-spots/IMG_2745.JPEG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 6
+        },
+        {
+          "id": "props-spots-8",
+          "url": "/assets/portfolio/props-spots/IMG_3899.JPEG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 7
+        },
+        {
+          "id": "props-spots-9",
+          "url": "/assets/portfolio/props-spots/IMG_5403.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 8
+        },
+        {
+          "id": "props-spots-10",
+          "url": "/assets/portfolio/props-spots/IMG_5537.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 9
+        },
+        {
+          "id": "props-spots-11",
+          "url": "/assets/portfolio/props-spots/IMG_8323.JPG",
+          "alt": "Ambica Decorators Picture Perfect",
+          "category": "picture-perfect",
+          "categoryLabel": "Picture Perfect",
+          "sortOrder": 10
+        }
+      ]
+    },
+    {
+      "slug": "signature-stages",
+      "label": "Signature Stages",
+      "folder": "stage",
+      "photos": [
+        {
+          "id": "stage-1",
+          "url": "/assets/portfolio/stage/IMG_0227.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 0
+        },
+        {
+          "id": "stage-2",
+          "url": "/assets/portfolio/stage/IMG_1293.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 1
+        },
+        {
+          "id": "stage-3",
+          "url": "/assets/portfolio/stage/IMG_2172.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 2
+        },
+        {
+          "id": "stage-4",
+          "url": "/assets/portfolio/stage/IMG_2454.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 3
+        },
+        {
+          "id": "stage-5",
+          "url": "/assets/portfolio/stage/IMG_2502.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 4
+        },
+        {
+          "id": "stage-6",
+          "url": "/assets/portfolio/stage/IMG_2516.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 5
+        },
+        {
+          "id": "stage-7",
+          "url": "/assets/portfolio/stage/IMG_2894.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 6
+        },
+        {
+          "id": "stage-8",
+          "url": "/assets/portfolio/stage/IMG_2903.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 7
+        },
+        {
+          "id": "stage-9",
+          "url": "/assets/portfolio/stage/IMG_3124.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 8
+        },
+        {
+          "id": "stage-10",
+          "url": "/assets/portfolio/stage/IMG_3674.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 9
+        },
+        {
+          "id": "stage-11",
+          "url": "/assets/portfolio/stage/IMG_3808.JPEG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 10
+        },
+        {
+          "id": "stage-12",
+          "url": "/assets/portfolio/stage/IMG_4079.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 11
+        },
+        {
+          "id": "stage-13",
+          "url": "/assets/portfolio/stage/IMG_4241.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 12
+        },
+        {
+          "id": "stage-14",
+          "url": "/assets/portfolio/stage/IMG_4640.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 13
+        },
+        {
+          "id": "stage-15",
+          "url": "/assets/portfolio/stage/IMG_5070.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 14
+        },
+        {
+          "id": "stage-16",
+          "url": "/assets/portfolio/stage/IMG_7651.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 15
+        },
+        {
+          "id": "stage-17",
+          "url": "/assets/portfolio/stage/IMG_8514.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 16
+        },
+        {
+          "id": "stage-18",
+          "url": "/assets/portfolio/stage/IMG_9284.JPG",
+          "alt": "Ambica Decorators Signature Stages",
+          "category": "signature-stages",
+          "categoryLabel": "Signature Stages",
+          "sortOrder": 17
+        }
+      ]
+    },
+    {
+      "slug": "complete-venue-setups",
+      "label": "Complete Venue Setups",
+      "folder": "venue",
+      "photos": [
+        {
+          "id": "venue-1",
+          "url": "/assets/portfolio/venue/IMG_2449.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 0
+        },
+        {
+          "id": "venue-2",
+          "url": "/assets/portfolio/venue/IMG_2853.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 1
+        },
+        {
+          "id": "venue-3",
+          "url": "/assets/portfolio/venue/IMG_2877.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 2
+        },
+        {
+          "id": "venue-4",
+          "url": "/assets/portfolio/venue/IMG_3559.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 3
+        },
+        {
+          "id": "venue-5",
+          "url": "/assets/portfolio/venue/IMG_3714.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 4
+        },
+        {
+          "id": "venue-6",
+          "url": "/assets/portfolio/venue/IMG_3834.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 5
+        },
+        {
+          "id": "venue-7",
+          "url": "/assets/portfolio/venue/IMG_3965.JPEG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 6
+        },
+        {
+          "id": "venue-8",
+          "url": "/assets/portfolio/venue/IMG_4035.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 7
+        },
+        {
+          "id": "venue-9",
+          "url": "/assets/portfolio/venue/IMG_4064.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 8
+        },
+        {
+          "id": "venue-10",
+          "url": "/assets/portfolio/venue/IMG_5366.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 9
+        },
+        {
+          "id": "venue-11",
+          "url": "/assets/portfolio/venue/IMG_5495.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 10
+        },
+        {
+          "id": "venue-12",
+          "url": "/assets/portfolio/venue/IMG_7828.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 11
+        },
+        {
+          "id": "venue-13",
+          "url": "/assets/portfolio/venue/IMG_8563.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 12
+        },
+        {
+          "id": "venue-14",
+          "url": "/assets/portfolio/venue/IMG_9479.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 13
+        },
+        {
+          "id": "venue-15",
+          "url": "/assets/portfolio/venue/IMG_9502.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 14
+        },
+        {
+          "id": "venue-16",
+          "url": "/assets/portfolio/venue/IMG_9697.JPG",
+          "alt": "Ambica Decorators Complete Venue Setups",
+          "category": "complete-venue-setups",
+          "categoryLabel": "Complete Venue Setups",
+          "sortOrder": 15
+        }
+      ]
+    }
+  ],
+  "totalPhotos": 95
+}
