@@ -47,18 +47,12 @@ body {
 
 
 .page {
-
   width: min(1500px, calc(100% - 42px));
-
   margin: 20px auto;
-
   border: 1px solid #c9bec8;
-
   border-radius: 30px;
-
   overflow: hidden;
-
-  background: #fff
+  background: #fff;
 }
 
 
@@ -4075,6 +4069,7 @@ textarea:focus {
     right: 12px;
   }
 }
+
 /* =========================================================
    AMBICA PORTFOLIO WATERMARK
    Website overlay only — original photos remain untouched.
@@ -4104,16 +4099,14 @@ textarea:focus {
 }
 
 /* Slightly smaller watermark on the homepage showcase. */
-.ambica-portfolio-home
-  .ambica-portfolio-watermark {
+.ambica-portfolio-home .ambica-portfolio-watermark {
   width: clamp(46px, 6vw, 68px);
   top: 12px;
   right: 12px;
 }
 
 /* Larger watermark when viewing the complete collection. */
-.ambica-portfolio-full
-  .ambica-portfolio-watermark {
+.ambica-portfolio-full .ambica-portfolio-watermark {
   width: clamp(50px, 6vw, 74px);
 }
 
@@ -4125,10 +4118,8 @@ textarea:focus {
     right: 9px;
   }
 
-  .ambica-portfolio-home
-    .ambica-portfolio-watermark,
-  .ambica-portfolio-full
-    .ambica-portfolio-watermark {
+  .ambica-portfolio-home .ambica-portfolio-watermark,
+  .ambica-portfolio-full .ambica-portfolio-watermark {
     width: 44px;
     top: 9px;
     right: 9px;
@@ -4180,7 +4171,7 @@ textarea:focus {
   max-height: 88vh;
 }
 
-.ambica-portfolio-lightbox-content > img:first-child {
+.ambica-portfolio-lightbox-content>img:first-child {
   display: block;
   width: auto !important;
   height: auto !important;
@@ -4189,8 +4180,7 @@ textarea:focus {
   object-fit: contain;
 }
 
-.ambica-portfolio-lightbox-content
-  > img.ambica-portfolio-lightbox-watermark {
+.ambica-portfolio-lightbox-content>img.ambica-portfolio-lightbox-watermark {
   position: absolute !important;
   top: 2.5% !important;
   right: 2.5% !important;
@@ -4214,8 +4204,7 @@ textarea:focus {
 }
 
 /* Keep the caption below the photograph */
-.ambica-portfolio-lightbox-content
-  .ambica-portfolio-lightbox-caption {
+.ambica-portfolio-lightbox-content .ambica-portfolio-lightbox-caption {
   position: absolute;
   left: 0;
   right: 0;
@@ -4230,17 +4219,113 @@ textarea:focus {
     max-height: 82vh;
   }
 
-  .ambica-portfolio-lightbox-content > img:first-child {
+  .ambica-portfolio-lightbox-content>img:first-child {
     max-width: 94vw !important;
     max-height: 82vh !important;
   }
 
-  .ambica-portfolio-lightbox-content
-    > img.ambica-portfolio-lightbox-watermark {
+  .ambica-portfolio-lightbox-content>img.ambica-portfolio-lightbox-watermark {
     top: 3% !important;
     right: 3% !important;
     width: 54px !important;
     max-width: 54px !important;
     max-height: 54px !important;
   }
+}
+
+/* Mobile featured celebration layout fix */
+@media (max-width: 500px) {
+  .featured-image {
+    height: 560px;
+  }
+
+  .featured-copy {
+    left: 22px;
+    right: 22px;
+    top: auto;
+    bottom: 105px;
+    transform: none;
+  }
+
+  .featured-copy h2 {
+    font-size: 40px;
+    line-height: 0.9;
+    margin: 14px 0;
+  }
+
+  .featured-copy p {
+    max-width: 280px;
+    margin-bottom: 4px;
+  }
+
+  .featured-copy .play {
+    margin-top: 14px;
+  }
+
+  .featured-tag {
+    left: 22px;
+    right: 22px;
+    bottom: 18px;
+    width: auto;
+    box-sizing: border-box;
+  }
+}
+
+/* Route-aware navbar buttons */
+#mainNav button {
+  border: 0;
+  padding: 31px 0;
+  position: relative;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+#mainNav button:hover {
+  color: var(--purple);
+}
+
+@media (max-width: 1100px) {
+  #mainNav button {
+    padding: 31px 0;
+  }
+}
+
+@media (max-width: 800px) {
+  #mainNav button {
+    width: 100%;
+    padding: 11px 0;
+    text-align: left;
+    background: transparent;
+  }
+
+  #mainNav button:hover {
+    color: var(--purple);
+  }
+}
+
+/* Reset brand button styling */
+.brand {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+#mainNav button {
+  border: 0;
+  padding: 31px 0;
+  position: relative;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
 }
