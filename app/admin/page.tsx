@@ -208,33 +208,9 @@ export default function Admin() {
         setError('');
 
         try {
-            const [
-                enquiries,
-                projects,
-                reviews,
-                services,
-                locations,
-                faqs,
-                settings,
-            ] = await Promise.all([
-                api('/api/enquiries'),
-                api('/api/projects'),
-                api('/api/reviews'),
-                api('/api/services'),
-                api('/api/locations'),
-                api('/api/faqs'),
-                api('/api/settings'),
-            ]);
+            const data = await api('/api/admin/dashboard');
 
-            setData({
-                enquiries,
-                projects,
-                reviews,
-                services,
-                locations,
-                faqs,
-                settings,
-            });
+            setData(data);
         } catch (e) {
             setError(
                 e instanceof Error
